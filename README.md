@@ -1,4 +1,4 @@
-!["claim_prediction_wallpaper.jpg"]
+![Insurance-Wallpaper](claim_prediction_wallpaper.jpg)
 # Car Insurance Prediction
 
 ## Overview
